@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "backstage-generated-docs2"
+  description: "backstage-generated-docs2"
+  annotations:
+    github.com/project-slug: KL-Engineering/backstage-generated-docs2
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "api-management-team"

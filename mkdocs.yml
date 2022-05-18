@@ -1,0 +1,8 @@
+site_name: "backstage-generated-docs2"
+site_description: "backstage-generated-docs2"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
